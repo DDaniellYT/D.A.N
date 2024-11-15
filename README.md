@@ -11,3 +11,6 @@ N E A R B Y
 
 
 Project done using micro-controllers + cameras + sensors + motors + etc. 
+
+
+Add *DOCUMENTATION* here as we go to not have to do everything at the end **PLEASE**.
