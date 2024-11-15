@@ -10,4 +10,4 @@ A S S I S T A N T
 N E A R B Y
 
 
-Project done using micro-controllers + cameras + sensors +  + motors + etc. 
+Project done using micro-controllers + cameras + sensors + motors + etc. 
