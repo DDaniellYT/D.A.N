@@ -1,5 +1,5 @@
 Computer Architecture project that involves creating a table assistant.
-The assistant supposedly follows you around while beeing able to input/ouput voice commands to aid your job.
+The assistant supposedly follows you around while aiding your job in any way.
 *Follower Jarvis*.
 
 ***Project name***:
